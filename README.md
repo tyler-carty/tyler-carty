@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyler-carty
+- 👋 Hi, I’m @tyler-carty (Tyler Cartwright)
 - 👀 I’m interested in Software Development/Engineering
 - 🌱 I’m currently studying Computer Science at the University of Derby
 - 💼 I am looking for Software Placements for the academic year 2022/23
