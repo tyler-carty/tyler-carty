@@ -3,7 +3,7 @@
 - 💻 I’m currently studying Computer Science (BSc) at the University of Derby
 - 💼 I am looking for Software Placements for the academic year 2022/23
 * 📫 How to reach me: tcartwright2606@gmail.com
-* 🌐 My Portfolio website: https://www.tylercartwright.co.uk
+* 🌐 My Portfolio website: <a href="https://www.tylercartwright.co.uk" target="_blank">Click Me!</a>
 
 - Feel free to take a look around, I store various projects here that are also on my portfolio website!
 - Download whatever interests you, I am more than happy to share my progress! :)
