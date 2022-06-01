@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tyler-carty (Tyler Cartwright)
 - 👀 I’m interested in Full Stack Software Development/Engineering
 - 💻 I’m currently studying Computer Science (BSc) at the University of Derby
-- 💼 I am looking for Software Placements for the academic year 2022/23
+- 💼 I am a Placement Software Engineer @ Lloyds Bank
 * 📫 How to reach me: tcartwright2606@gmail.com
 * 🌐 My Portfolio website: <a href="https://tylercartwright.co.uk/" target="_blank">https://tylercartwright.co.uk/</a> 
 
