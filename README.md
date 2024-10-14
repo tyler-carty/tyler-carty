@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tyler-carty (Tyler Cartwright)
-- 👀 I’m interested in Full Stack Software Development/Engineering
-- 💻 I’m currently studying Computer Science (BSc) at the University of Derby
-- 💼 I am an Intern Software Engineer @ Lloyds Banking Group
+- 👀 I’m interested in Full Stack Software Engineering & Data Science in Finance
+- 💻 I’m a 1st class Graduate from the University of Derby (Computer Science (BSc))
+- 💼 I am an Graduate Software Engineer @ Lloyds Banking Group
 * 📫 How to reach me: tcartwright2606@gmail.com
 * 🌐 My Portfolio website: <a href="https://tylercartwright.co.uk/" target="_blank">https://tylercartwright.co.uk/</a> 
 
